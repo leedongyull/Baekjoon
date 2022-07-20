@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\11053 가장 긴 증가하는 부분수열\11053 가장 긴 증가하는 부분수열\소스.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dy962\Desktop\공부\C++\11053 가장 긴 증가하는 부분수열\11053 가장 긴 증가하는 부분수열\소스.cpp(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11053 가장 긴 증가하는 부분수열.vcxproj -> C:\Users\dy962\Desktop\공부\C++\11053 가장 긴 증가하는 부분수열\Debug\11053 가장 긴 증가하는 부분수열.exe

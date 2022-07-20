@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\7576 토마토\7576 토마토\소스.cpp(67,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dy962\Desktop\공부\C++\7576 토마토\7576 토마토\소스.cpp(70,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  7576 토마토.vcxproj -> C:\Users\dy962\Desktop\공부\C++\7576 토마토\Debug\7576 토마토.exe

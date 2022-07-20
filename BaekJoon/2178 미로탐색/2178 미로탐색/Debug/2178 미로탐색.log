@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\2178 미로탐색\2178 미로탐색\소스.cpp(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dy962\Desktop\공부\C++\2178 미로탐색\2178 미로탐색\소스.cpp(46,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2178 미로탐색.vcxproj -> C:\Users\dy962\Desktop\공부\C++\2178 미로탐색\Debug\2178 미로탐색.exe

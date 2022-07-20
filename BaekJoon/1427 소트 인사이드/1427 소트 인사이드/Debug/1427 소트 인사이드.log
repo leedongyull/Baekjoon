@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\1427 소트 인사이드\1427 소트 인사이드\소스.cpp(11,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dy962\Desktop\공부\C++\1427 소트 인사이드\1427 소트 인사이드\소스.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1427 소트 인사이드.vcxproj -> C:\Users\dy962\Desktop\공부\C++\1427 소트 인사이드\Debug\1427 소트 인사이드.exe

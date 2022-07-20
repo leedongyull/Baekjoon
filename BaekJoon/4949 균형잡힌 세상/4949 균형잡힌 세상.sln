@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4949 균형잡힌 세상", "4949 균형잡힌 세상\4949 균형잡힌 세상.vcxproj", "{828986E0-ED56-4E58-B24D-09F76AFB8918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Debug|x64.ActiveCfg = Debug|x64
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Debug|x64.Build.0 = Debug|x64
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Debug|x86.ActiveCfg = Debug|Win32
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Debug|x86.Build.0 = Debug|Win32
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Release|x64.ActiveCfg = Release|x64
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Release|x64.Build.0 = Release|x64
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Release|x86.ActiveCfg = Release|Win32
+		{828986E0-ED56-4E58-B24D-09F76AFB8918}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34EB6E3-4927-4DA8-97AE-66D5E1FC8AEA}
+	EndGlobalSection
+EndGlobal

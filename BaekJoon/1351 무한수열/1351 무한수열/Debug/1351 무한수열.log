@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\1351 무한수열\1351 무한수열\소스.cpp(14,22): warning C4244: '인수': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dy962\Desktop\공부\C++\1351 무한수열\1351 무한수열\소스.cpp(14,44): warning C4244: '인수': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dy962\Desktop\공부\C++\1351 무한수열\1351 무한수열\소스.cpp(14,33): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1351 무한수열.vcxproj -> C:\Users\dy962\Desktop\공부\C++\1351 무한수열\Debug\1351 무한수열.exe

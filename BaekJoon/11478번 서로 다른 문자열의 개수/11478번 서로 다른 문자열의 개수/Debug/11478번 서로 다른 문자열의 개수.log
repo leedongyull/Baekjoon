@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\11478번 서로 다른 문자열의 개수\11478번 서로 다른 문자열의 개수\소스.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dy962\Desktop\공부\C++\11478번 서로 다른 문자열의 개수\11478번 서로 다른 문자열의 개수\소스.cpp(17,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11478번 서로 다른 문자열의 개수.vcxproj -> C:\Users\dy962\Desktop\공부\C++\11478번 서로 다른 문자열의 개수\Debug\11478번 서로 다른 문자열의 개수.exe

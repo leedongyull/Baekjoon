@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\Study\C++\2580번 스도쿠\2580번 스도쿠\소스.cpp(13,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dy962\Desktop\Study\C++\2580번 스도쿠\2580번 스도쿠\소스.cpp(105): warning C4715: 'vertical': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dy962\Desktop\Study\C++\2580번 스도쿠\2580번 스도쿠\소스.cpp(82): warning C4715: 'horizontal': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\dy962\Desktop\Study\C++\2580번 스도쿠\2580번 스도쿠\소스.cpp(190): warning C4715: 'squre': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  2580번 스도쿠.vcxproj -> C:\Users\dy962\Desktop\Study\C++\2580번 스도쿠\Debug\2580번 스도쿠.exe

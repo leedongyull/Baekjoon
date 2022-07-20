@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\공부\C++\14502 연구소\14502 연구소\소스.cpp(73,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dy962\Desktop\공부\C++\14502 연구소\14502 연구소\소스.cpp(76,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  14502 연구소.vcxproj -> C:\Users\dy962\Desktop\공부\C++\14502 연구소\Debug\14502 연구소.exe
