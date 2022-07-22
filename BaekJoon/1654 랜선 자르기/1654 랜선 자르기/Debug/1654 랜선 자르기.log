@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\git\BaekJoon\1654 랜선 자르기\1654 랜선 자르기\소스.cpp(25,27): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dy962\Desktop\git\BaekJoon\1654 랜선 자르기\1654 랜선 자르기\소스.cpp(29,26): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  1654 랜선 자르기.vcxproj -> C:\Users\dy962\Desktop\git\BaekJoon\1654 랜선 자르기\Debug\1654 랜선 자르기.exe
