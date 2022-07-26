@@ -1,0 +1,15 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\git\BaekJoon\2981 검문\2981 검문\소스.cpp(27,11): warning C4244: '초기화 중': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dy962\Desktop\git\BaekJoon\2981 검문\2981 검문\소스.cpp(30,11): warning C4244: '초기화 중': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dy962\Desktop\git\BaekJoon\2981 검문\2981 검문\소스.cpp(31,14): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dy962\Desktop\git\BaekJoon\2981 검문\2981 검문\소스.cpp(36,26): warning C4244: '인수': 'unsigned __int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\dy962\Desktop\git\BaekJoon\2981 검문\2981 검문\소스.cpp(39,19): warning C4244: '인수': 'unsigned __int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  2981 검문.vcxproj -> C:\Users\dy962\Desktop\git\BaekJoon\2981 검문\Debug\2981 검문.exe
