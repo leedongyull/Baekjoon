@@ -1,29 +1,48 @@
 #include <iostream>
 #include <cstring>
+#include <vector>
+#include <queue>
+
 using namespace std;
-int graph[20001] = { 0, };
-int min(int a, int b) { return a < b ? a : b;; }
+
+	vector<pair<int, int>> dijkstra[20102];
+	priority_queue<pair<int, int>, vector<pair<int, int> >, greater<pair<int, int> > >pq;
+	int d[20102] = { 0, };
+
 int main(void) {
-	int vertex, edge;
-	cin >> vertex >> edge;
-	for (int i = 1; i <= vertex; i++) {
-		graph[i] = 20;
+	cin.tie(NULL);
+	cout.tie(NULL);
+	ios_base::sync_with_stdio(false);
+	int INF = 987654321;
+	int v, e, start;
+	int st, end, weight;
+	cin >> v >> e;
+	cin >> start;
+	for (int i = 0; i < e; i++) {
+		cin >> st >> end >> weight;
+		dijkstra[st].push_back(make_pair(end, weight));
 	}
-	int start_vertex;
-	cin >> start_vertex;
-	graph[start_vertex] = 0;
-	for (int i = 1; i <= edge; i++) {
-		int a, b, c;
-		cin >> a >> b >> c;
-		if (a == start_vertex) {
-			graph[b] = min(graph[b], c);
-		}
-		else {
-			graph[b] = min(graph[a] + c, graph[b]);
+	for (int i = 1; i <= v; i++) {
+		d[i] = INF;
+	}
+	d[start] = 0;
+	pq.push(make_pair(0, start));
+	
+	while (!pq.empty()) {
+		int sum = pq.top().first;
+		int current = pq.top().second;
+		pq.pop();
+		for (int i = 0; i < dijkstra[current].size(); i++) {
+			int go = dijkstra[current][i].first;
+			int w = dijkstra[current][i].second;
+			if (sum + w < d[go]) {
+				d[go] = sum + w;
+				pq.push(make_pair(sum + w, go));
+			}
 		}
 	}
-	for (int i = 1; i <= vertex; i++) {
-		if (graph[i] == 20) cout << "INF"<<'\n';
-		else cout << graph[i]<<'\n';
+	for (int i = 1; i <= v; i++) {
+		if (d[i] == INF) cout << "INF\n";
+		else cout << d[i] << '\n';
 	}
 }
