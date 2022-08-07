@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13301 타일 장식물", "13301 타일 장식물\13301 타일 장식물.vcxproj", "{E6DD240F-1825-4FAD-956C-F4D105272168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Debug|x64.ActiveCfg = Debug|x64
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Debug|x64.Build.0 = Debug|x64
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Debug|x86.Build.0 = Debug|Win32
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Release|x64.ActiveCfg = Release|x64
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Release|x64.Build.0 = Release|x64
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Release|x86.ActiveCfg = Release|Win32
+		{E6DD240F-1825-4FAD-956C-F4D105272168}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28BED968-2221-4BF4-A5B6-F1903095A5C4}
+	EndGlobalSection
+EndGlobal
