@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\git\BaekJoon\4659 비밀번호 발음하기\4659 비밀번호 발음하기\소스.cpp(15,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dy962\Desktop\git\BaekJoon\4659 비밀번호 발음하기\4659 비밀번호 발음하기\소스.cpp(35,10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  4659 비밀번호 발음하기.vcxproj -> C:\Users\dy962\Desktop\git\BaekJoon\4659 비밀번호 발음하기\Debug\4659 비밀번호 발음하기.exe
