@@ -1,24 +1,28 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
-int main(void) {
-	int n;
-	int time[100000] = { 0, };
-	int conference[100000] = { 0, };
-	cin >> n;
-	for (int i = 0; i < n; i++) {
-		cin >> conference[i] >> time[i];
+vector<pair<int, int>> v;
+
+
+int main() {
+	int t;
+	cin >> t;
+	for (int i = 0; i < t; i++) {
+		int start, end;
+		cin >> start >> end;
+		v.push_back(make_pair(end, start));
 	}
-	int cnt=0;
-	int i = 0;
-	int j = 0;
-	while (i != n) {
-		if (i == conference[j]) {
-			j += time[j];
-			cnt++;
+	sort(v.begin(), v.end());
+	int time = v[0].first;
+	int count = 1;
+	for (int i = 1; i < t; i++) {
+		if (time <= v[i].second) {
+			count++;
+			time = v[i].first;
 		}
-		else 	i++;
 	}
-	cout << cnt;
+	cout << count;
 }
