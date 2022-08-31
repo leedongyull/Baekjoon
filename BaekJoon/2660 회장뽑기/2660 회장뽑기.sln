@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2660 회장뽑기", "2660 회장뽑기\2660 회장뽑기.vcxproj", "{43A2AE49-C141-4E97-8460-503CFF31F011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Debug|x64.ActiveCfg = Debug|x64
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Debug|x64.Build.0 = Debug|x64
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Debug|x86.ActiveCfg = Debug|Win32
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Debug|x86.Build.0 = Debug|Win32
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Release|x64.ActiveCfg = Release|x64
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Release|x64.Build.0 = Release|x64
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Release|x86.ActiveCfg = Release|Win32
+		{43A2AE49-C141-4E97-8460-503CFF31F011}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01DF2C77-F6DB-4F66-9A09-1CAA708164D8}
+	EndGlobalSection
+EndGlobal
