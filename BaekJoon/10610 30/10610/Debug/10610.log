@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\git\BaekJoon\10610\10610\소스.cpp(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  10610.vcxproj -> C:\Users\dy962\Desktop\git\BaekJoon\10610\Debug\10610.exe
