@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\dy962\Desktop\git\BaekJoon\1543 문서검색\1543 문서검색\소스.cpp(13,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dy962\Desktop\git\BaekJoon\1543 문서검색\1543 문서검색\소스.cpp(15,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  1543 문서검색.vcxproj -> C:\Users\dy962\Desktop\git\BaekJoon\1543 문서검색\Debug\1543 문서검색.exe
